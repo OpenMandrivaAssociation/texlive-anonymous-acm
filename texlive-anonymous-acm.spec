@@ -1,6 +1,6 @@
 Name:		texlive-anonymous-acm
 Version:	55121
-Release:	1
+Release:	2
 Summary:	Typeset anonymous versions for ACM articles
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/anonymous-acm
