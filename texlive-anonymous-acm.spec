@@ -3,7 +3,7 @@ Version:	55121
 Release:	2
 Summary:	Typeset anonymous versions for ACM articles
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/anonymous-acm
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/anonymous-acm
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/anonymous-acm.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/anonymous-acm.doc.r%{version}.tar.xz
